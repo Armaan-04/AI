@@ -4,10 +4,12 @@ sentiment_analyzer = pipeline("sentiment-analysis" , model = "distilbert-base-un
 texts = [
 "I love playing and watching cricket!",
 "I hate when Virat Kohli misses a century.",
-"I love being a footballer."
+"I love being a footballer." ,
 ]
 results = sentiment_analyzer(texts)
 for result in results:
     print(result)
+
+
 
 
