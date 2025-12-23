@@ -5,12 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fb5938b4-b47b-4108-b686-d41b0d053634" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/HuggingFace/.venv/HuggingFace/QuestionAnswering.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HuggingFace/.venv/HuggingFace/TextClassification.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HuggingFace/.venv/HuggingFace/TextSummarization.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HuggingFace/.venv/HuggingFace/TextToTextTranslation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HuggingFace/.venv/HuggingFace/TTIUsingAccelerator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HuggingFace/.venv/HuggingFace/TextToImage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HuggingFace/.venv/HuggingFace/TextToImage2.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HuggingFace/.venv/HuggingFace/TextToVideo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/AI.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AI.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HuggingFace/.venv/HuggingFace/SentimentAnalysis.py" beforeDir="false" afterPath="$PROJECT_DIR$/HuggingFace/.venv/HuggingFace/SentimentAnalysis.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +20,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Jupyter Notebook" />
         <option value="Python Script" />
       </list>
     </option>
@@ -44,10 +45,13 @@
     "Python.QuestionAnswering.executor": "Run",
     "Python.RegexinInformationExtraction.executor": "Run",
     "Python.SentimentAnalysis.executor": "Run",
+    "Python.TTIUsingAccelerator.executor": "Run",
     "Python.Tensors.executor": "Run",
     "Python.TextClassification.executor": "Run",
     "Python.TextSummarization.executor": "Run",
+    "Python.TextToImage.executor": "Run",
     "Python.TextToTextTranslation.executor": "Run",
+    "Python.TextToVideo.executor": "Run",
     "Python.dataset.executor": "Run",
     "Python.datasets.executor": "Run",
     "Python.intro.executor": "Run",
